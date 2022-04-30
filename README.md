@@ -1,2 +1,2 @@
 # Imaging Ransomware Compromised Hosts
-This repo will contain compromised host images others can use to test their threat hunting and incident response analysis skills or their automated tools. The images will be created from emulating known ransomwares(PYSA, Pay2Key) using Caldera on a Kali box against a Windows machine. The images will be distributed to both classmates and for public consumption.
+This repo will contain compromised host images others can use to test their threat hunting and incident response analysis skills or their automated tools. The images will be created from emulating known ransomwares (PYSA, Pay2Key) using Caldera on a Kali box against a Windows machine. The images will be distributed to both classmates and for public consumption.
